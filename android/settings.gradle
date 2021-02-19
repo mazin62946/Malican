@@ -1,0 +1,12 @@
+rootProject.name = 'malican'
+include ':react-native-wheel-datepicker'
+project(':react-native-wheel-datepicker').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-wheel-datepicker/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
+
+include ':rn-document-scanner-android'
+project(':rn-document-scanner-android').projectDir = new File(rootProject.projectDir, '../node_modules/rn-document-scanner-android/android')
+include ':liveedgedetection'
+project(':liveedgedetection').projectDir = new File(rootProject.projectDir, '../node_modules/rn-document-scanner-android/packages/liveedgedetection')
+include ':openCVLibrary340'
+project(':openCVLibrary340').projectDir = new File(rootProject.projectDir, '../node_modules/rn-document-scanner-android/packages/openCVLibrary340')

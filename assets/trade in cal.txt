@@ -1,0 +1,29 @@
+Simple calculation without trade in:
+navara: 72975
+downpayment: 14595
+tax: 3,648.75
+insurance: 0
+monthly EMI: 60,000 (1000x60)
+interest: 7,500
+total amount: (total price + insurance + interest) 80,475
+balance amount: (total amount - downpayment) 65,880
+balance downpayment: (balance amount - total emi) 5,880
+final down payment:(downpayment + balance downpayment) 20,475
+
+calculation with trade in:
+car price = 72975
+downpayment = 14595
+trade = 70000
+month = 12
+
+
+final price = car price - downpayment = 58,380
+final trade = trade - downpayment = 55,405
+
+
+intrest amount = final price - final trade (if trade more than downpayment) = 2,975
+intrest = intrestrate / 100 * intret amount = 37.5
+
+total amount = intrest amount + intrest = 3,012.5
+
+emi = total amount / month = 251.04

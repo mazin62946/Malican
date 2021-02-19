@@ -1,0 +1,32 @@
+Car Detail:
+
+car_model  	Car Model 
+region 		Region
+car_variant     Car Variant
+car_image	Car Image
+car_insurance	Car Insurance
+car_bank	Car Bank
+
+Car Price:
+price_subtotal	Price Subtotal
+price_total	Price total
+price_tax	Price Tax
+price_variant	Price Variant
+price_insurance Price Insurance
+
+Car Finance:
+finance_downpayment	Finance Downpayment
+finance_emimonth	Finance Emimonth
+finance_emi		Finance Emi
+finance_emiinterest	Finance Emiinterest
+
+offer_relation 		Offer relation
+
+
+offer			Offers
+
+addons			Addons
+name	Name
+image	Image
+price	Price
+

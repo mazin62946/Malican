@@ -1,0 +1,443 @@
+{"getstarted":{
+
+   "g_started":"GET STARTED",
+   "malican":"MALICAN",
+   "e_efforless":"Earn Effortlessly",
+   "Already_acc":"Already have an account?",
+   "s_in":"Sign In",
+   "exp_awd":"Experience Reward",
+   "earn_mp":"Earn Even More Points"
+
+
+},
+
+"signup":{
+    "s_up":"SIGNUP",
+    "email":"Email",
+    "e_email":"Enter email",
+    "c_code":"Country Code",
+    "s_code":"Select Code",
+    "ph_num":"Phone Number",
+    "e_phnum":"Enter phone number",
+    "next":"NEXT",
+    "title":"Title",
+    "s_title":"Select title",
+    "f_name":"First Name",
+    "e_fname":"Enter first name",
+    "sname":"Surname",
+    "e_sname":"Enter Surname",
+    "nationality":"Nationality",
+    "s_nationality":"Select Nationality",
+    "dob":"Date of Birth",
+    "pass":"Password(8+ character)",
+    "e_pass":"Enter password",
+    "pass_c":"Your password must contains",
+    "use_char":"Use atleast 8 characters",
+    "use_num":"Use atleast 1 number",
+    "use_ul":"Use atleast 1 upper case letter",
+    "use_ll":"Use atleast 1 lower case letter",
+    "c_pass":"Confirm Password",
+    "agree_tc":"I agree to the terms & condition and the privacy policy",
+    "keep_po":"Keep me up to date with promotions and offers"
+
+
+},
+
+"verification_email_sent":{
+
+    "v_esend":"Verification Email Sent",
+    "s_email":"We have just sent and email to",
+    "c_signup":"Follow the link to complete sign up",
+    "v_ssent":"Verification SMS Sent",
+    "v_scsend":"Verification SMS code sent",
+    "s_snum":"We have just send a sms on your number"
+},
+
+"enter_code":{
+
+    "e_code":"ENTER CODE",
+    "e_csend":"Enter the 4 digit code sent to your email address to verify",
+    "e_mnum":"Enter 4 digit code that was sent to your mobile number",
+    "s_code":"SUBMIT CODE",
+    "thanks":"Thanks"
+
+},
+"signin":{
+    "s_in":"SIGN IN",
+    "e_add":"Email Address",
+    "e_eadd":"Enter email address",
+    "pass":"Password",
+    "e_pass":"Enter password",
+    "next":"NEXT",
+    "f_pass":"Forgot Password?",
+    "s_up":"Sign Up",
+    "e_invalid":"Your email is invalid",
+    "p_invalid":"Your password is invalid",
+    "c_invalid":"Credentials Invalid",
+    "fill_if":"Please fill the input field"
+
+
+
+},
+"forgotpassword":{
+    "f_pass":"Forgot Password",
+    "e_eadd":"Enter the email address",
+    "a_acc":"associated with your account",
+    "e_add":"Email Address",
+     "send":"SEND"
+
+},
+
+"add_your_card":{
+
+    "a_ycard":"ADD YOUR CARD",
+    "p_acard":"Please add your card",
+    "c_title":"Card Title",
+    "e_title":"Enter title",
+    "c_num":"Card Number",
+    "e_cnum":"Enter card number",
+    "valid":"Valid",
+    "MM/YY":"MM/YY",
+    "c_code":"CVV code",
+    "s_card":"Save my card",
+    "a_card":"Add Card",
+    "logout":"Logout"
+
+},
+"my_family_group":{
+    "my_fg":"My Family Group",
+    "t_name":"Title Name",
+    "email":"emailaddress@domain.com"
+
+},
+"dashboard":{
+    "hi":"Hi",
+    "my_acc":"My account",
+    "r_pass":"Reset Password",
+    "noti":"Notifications",
+    "p_method":"Payment Methods",
+    "r_tutorial":"Reset Tutorial",
+    "t_condition":"Terms & Conditions",
+    "p_policy":"Privacy Policy",
+    "logout":"Logout",
+    "v 1.1.5":"V 1.1.5"
+},
+"myaccount":{
+    "my_acc":"My Account",
+    "hi":"Hi",
+    "a_points":"Available Points",
+    "35000points":"35000 points",
+    "points":"points",
+    // "p_exp":"Point will expire on 20 Nov 2020",
+    "p_exp":"Point will expire on",
+    "redeem":"REDEEM",
+    "s_reciept":"Submit Reciept",
+    "f_group":"Family Group",
+    "t_history":"Transaction History",
+    "channel":"Channel",
+    "aed1000":"AED 1000",
+    "aed":"AED",
+    "1000_predeem":"1000 Points Redeemed",
+    "predeem":"Points Redeemed",
+    "v_id":"Voucher ID",
+    "r_at":"Redeemed at"
+
+
+},
+"myprofile":{
+
+"my_p":"My Profile",
+"title":"Title",
+"mr.":"Mr.",
+"f_name":"First Name",
+"e_fname":"Enter First Name",
+"sname":"Surname",
+"e_sname":"Enter Surname",
+"nationality":"Nationality",
+"s_nationality":"Select Nationality",
+"c_code":"Country Code",
+"select":"Select",
+"p_num":"Phone Number",
+"e_pnum":"Enter Phone Number",
+"dob":"Date of Birth",
+"s_dob":"Select Date of Birth",
+"s_changes":"Save Changes"
+
+
+
+},
+"myfamilygroup":{
+
+    "my-fg":"    My Family Group",
+    "join_fg":"Invite upto 9 people to join family group",
+    "i_member":"Invite member"
+    },
+
+    "add_new_member":{
+        "a_nmember":"Add New Member",
+        "a_bypass":"Add a new member into your family by entering their email address",
+        "e_Add":"Email Address",
+        "e_eadd":"Enter email address",
+        "s_invite":"Send invite"
+        
+
+    },
+    "payments_methods":{
+
+      "p_method":"  Payment Methods",
+      "name":"Name",
+       "e_cnum":"Enter Card Number"
+
+    },
+    "add_card_details":{
+    
+        "a_cdetail":"Add Card Detail",
+        "c_num":"Card Number",
+        "e_cnum":"Enter card number",
+        "t_oncard":"Title on card",
+        "e_title":"Enter Title",
+        "expiry":"Write expiry",
+        "cvv":"CVV",
+        "w_cvv":"Write CVV",
+        "s_card":"Save my card",
+       "why_type":" Why type when you can scan?",
+        "scan_card":"SCAN CARD NOW"
+    
+    },
+
+    "notifications":{
+
+       "noti": "Notifications",
+    "title":"Title",
+    "r_Airmile":"Reedem Air miles",
+    "u_pmembership":"Upgrade TO PREMIUM MEMBER SHIP",
+    "u_membership":"UPDRADE MEMBERSHIP"
+
+    },
+
+    "terms_condition":{
+       "t_conditions":"Terms & Conditions",
+       "recital_1":"1.0 Recital",
+        "recital_2":"2.0 Definition"
+        
+
+    },"reset_password":{
+        "r_pass":"Reset Password",
+        "e_email":"Enter your email to reset your password.",
+        "e_add":"Email Address",
+        "e_eadd":"Enter Email Address"
+        
+
+    },
+    
+    
+
+    "how_long_is_your_reciept?":{
+
+        "how_long":"How long is your reciept?",
+        "f_select":"First select the normal reciept",
+        "l_reciept":"or long reciept options.",
+        "s_again":"DONT SHOW AGAIN",
+        "skip":"SKIP",
+        "next":"NEXT"
+
+    },
+    "change_password":{
+
+      "c_pass":"Change Password",
+        "o_pass":"Old Password",
+        "e_pass":"Enter Password",
+    "n_pass":"New Password",
+    "con_pass":"Confirm New Password"
+
+
+    },
+
+    "you_have_submitted":{
+       "s_reciept": "You have submitted your reciept",
+        "skip":"SKIP",
+        "done":"DONE"
+
+    },
+    "submit_your_reciept":{
+        "s_reciept": "You have submitted your reciept",
+        "p_subreciept":"Check that all information is clear and easy to read and then press 'submit reciept'.",
+         "skip":"SKIP",
+         "done":"DONE"
+ 
+     },
+
+
+     "scanning_reciept":{
+
+        "s_recipt":"Scanning Reciept",
+        "home":"HOME",
+        "offer":"OFFER",
+        "a_reciept":"ADD RECIRPT",
+         "reddem":"REDEEM",
+        "profile":"PROFILE"
+
+    
+    },
+
+    "scan_reciept_popup":{
+        "thanks":"Thank You"
+    },
+
+"access_camera":{
+  "a_camera": "Access Camera",
+"m_acamera":"Malican would like to access your phone camera",
+"allow":"ALLOW",
+"n_allow":"NOT ALLOW"
+},
+"take_picture_of_your_reciept":{
+
+    "t_pic": "take pictures of your reciept",
+    "r_detail": "Make sure the picture includes all reciept details. For long reciept you can take up to 10 over lapping pictures as shown",
+    "skip": "skip",
+    "next":"next"
+ 
+    },
+
+
+
+    "welcome_to_malican":{
+
+"w_malican":"Welcome to Malican",
+"Hi":"Hi,",
+"a_points":"Available Points",
+"points":"Points",
+"p_expire":"Points will expire on 20 Nov 2020",
+"redeem":"REDEEM",
+"s_umembership":"Spend more 2000AED and upgrade to gold membership",
+"services":"Services",
+"v_parking":"Valet Parking",
+"l_access":"Lounge Access",
+"d_care":"Day Care",
+"l_con":"Luggage Concierege",
+"fashion":"Fashion",
+"t_baker":"Ted Baker",
+"f_item":"40 % OFF on all fashion items",
+"expires":"Expires in 7 days",
+"h_wellness":"Health & Wellness",
+"a_services":"40% OFF on all services"
+
+
+
+},
+"welcome_to malican_popup":{
+
+   "w_malican":"Welcome to Malican",
+
+    "s_tutorial":"Skip Tutorial",
+    "gotit":"GOT IT"
+
+},
+
+"offers":{
+
+"offers":"OFFERS",
+"all":"All",
+"carrefour":"Carrefour",
+"activated":"Activated",
+"expires":"Expires in 7 days",
+"enjoy":"Enjoy 15% discount in Eat Greek",
+"visit":"Visit our mall of emirates branch and get 15 % off",
+"discount":"Discount by presenting us your malican app.",
+"starts":"Starts 13/02/2020",
+"end":"End 23/02/2020",
+"home":"HOME",
+"offer":"OFFER",
+"a_reciept":"ADD RECIRPT",
+ "reddem":"REDEEM",
+"profile":"PROFILE"
+
+},
+
+    
+"discount_offer":{
+"d_offer":"Discount Offer",
+"expires":"Expires in 7 days",
+"enjoy":"Enjoy 15% discount in Eat Greek",
+"starts":"Starts 13/02/2020",
+"end":"End 23/02/2020",
+"e_greek":"Eat Greek",
+"name":"Sheikh Zayed Rd - Dubai",
+"home":"HOME",
+"offer":"OFFER",
+"a_reciept":"ADD RECIRPT",
+ "reddem":"REDEEM",
+"profile":"PROFILE"
+
+},
+
+"air_mile_vouchers":{
+
+"s_airvoucher":" Select Air Miles Vouchers",
+ "points35000":"35000 Points",
+ "expiry":"Points will expire on 20 Nov 2020",
+ "v_list":"Voucher List",
+ "miles1000":"1000 Miles",
+ "points1000":"10000 points required to redeem",
+ "home":"HOME",
+ "offer":"OFFER",
+ "a_reciept":"ADD RECIRPT",
+  "reddem":"REDEEM",
+ "profile":"PROFILE"
+},
+
+"select_shopping_voucher":{
+
+"s_sVoucher":"Select Shopping Voucher",
+"points35000":"35000 POINTS",
+"expiry":"POINTS WILL EXPIRE ON 20 NOV 2020",
+"V_list":"Voucher list",
+"aed100":"100 AED",
+"r_points":"1000 points required to redeem",
+"home":"HOME",
+"offer":"OFFER",
+"a_reciept":"ADD RECIRPT",
+ "reddem":"REDEEM",
+"profile":"PROFILE",
+"points100":"1000 points required to redeem",
+"p_channel":"Purchase at any channel outlet and receive a 15% discount",
+"r_channel":"Reedemable at all channel outlets.",
+"n_valid":"Not valid with any other discounts and promotions.",
+"valid":"valid for outlets shopping only.",
+"n_cash":"Not cash value",
+"no":"No. 36512456952182125",
+"v_expiry":"Valid until 20 April 2020",
+"r_voucher":"Redeem Voucher"
+
+},
+
+"thanks_for_redeeming_points":{
+
+"t_redeem":"Thank you  for reedming points",
+"t_rprocess":"Thank you for redeeming your voucher. Your request if being process. We will inform you shortly.",
+"thanks":"YES,THANKS"
+
+},
+
+"reedem_your_points":{
+   "r_points":"Redeem your points",
+   "Hi":"Hi,",
+   "a_points":"Available Points",
+   "points35000":"35000 Points",
+   "p_expiry":"Points will expire on 20 Nov 2020",
+   "s_more":"Spend more 2000 AED and upgrade to gold membership",
+   "vouchers":"VOUCHERS",
+   "r_airmiles":"REDEEM AIR MILES",
+   "shopping":"Shopping",
+   "home":"HOME",
+   "offer":"OFFER",
+   "a_reciept":"ADD RECIRPT",
+    "reddem":"REDEEM",
+   "profile":"PROFILE"
+},
+
+"resend": "Resend Code",
+
+
+
+}
